@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "daniel21",
+    "database": "trabalhofullstack",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "daniel21",
+    "database": "trabalhofullstack",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "daniel21",
+    "database": "trabalhofullstack",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
